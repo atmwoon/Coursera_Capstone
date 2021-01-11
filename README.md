@@ -1,6 +1,7 @@
 # IBM Data Science Coursera Capstone Project
 
-### November 2020
+### Andrew Woon
+**November 2020**
 This project contains my submission to the final assignment or the IBM Data Science Professional Certificate on Coursera (https://www.coursera.org/professional-certificates/ibm-data-science). 
 
 The assignment titled "Battle of the Neighborhoods" allows students the freedom to identify and solve any business problem of their choice as long as Foursquare geolocation data is used. My submission focuses on the neighbourhoods (planning areas) of Singapore with the following two main objectives:
